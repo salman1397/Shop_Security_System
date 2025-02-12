@@ -55,18 +55,13 @@ This ensures that shop owners can **monitor and control** their security system 
 
 ---
 
-## 🔧 Installation & Setup
-### 1️⃣ Hardware Setup
-- Connect the **ESP32** to **PIR sensors, buzzer, and relay module**.
-- Power the ESP32 using a stable **5V adapter**.
-- Place sensors strategically to **cover key entry points**.
 
-### 2️⃣ Firmware & Code Upload
+### 1️⃣ Firmware & Code Upload
 - Install **Arduino IDE** and **ESP32 Board Manager**.
 - Install required libraries: `WiFi`, `Blynk`, `BluetoothSerial`, etc.
 - Upload the firmware and configure **Blynk authentication tokens**.
 
-### 3️⃣ Mobile App Setup
+### 2️⃣ Mobile App Setup
 - Download and install the **Blynk app**.
 - Connect the ESP32 device and configure it for remote access.
 - Set up automation triggers and notifications.
@@ -79,25 +74,39 @@ This ensures that shop owners can **monitor and control** their security system 
 ---
 
 ## ⚙️ Future Enhancements
-- 📡 **LoRa-based long-distance communication**
-- 🔋 **Battery backup for power failures**
 - 📷 **ESP32-CAM integration for live streaming**
 - 🎤 **Voice alerts for intrusions**
 
 ---
 
-## 🏗️ Project Contributors
-🔹 **[Your Name]** - Developer & Hardware Engineer  
-🔹 **[Your GitHub](https://github.com/yourgithub)** - Repository Maintainer  
+
+## 📸 Demo
+![System Demo](assets/demo.gif)
+<a href="https://www.youtube.com/@SmartTechInsights-e9j">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40" height="40">
+</a>
 
 ---
 
-## 📜 License
-This project is **open-source** and released under the **MIT License**.
+## 📫 Let's Connect!
 
----
+<p align="left">
+<a href="https://www.linkedin.com/in/salman151397">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40">
+</a>
+<span style="display:inline-block; width: 250px;"></span>
+<a href="https://www.youtube.com/@SmartTechInsights-e9j">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40" height="40">
+</a>
+<span style="display:inline-block; width: 250px;"></span>
+<a href="mailto:salman151397@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40">
+</a>
+</p>
 
-## ⭐ Show Some Love!
-If you liked this project, don't forget to **🌟 Star** the repo and **fork** it for future improvements!
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourgithub/shop-security.svg?style=social)](https://github.com/yourgithub/shop-security)
+
+
+
+[![GitHub Stars](https://img.shields.io/github/stars/salman1397/IoT_Home_Automation.svg?style=social)](https://github.com/salman1397/IoT_Home_Automation/blob/main/HomeAutomation/HomeAutomation.ino)
+
