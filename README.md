@@ -26,11 +26,13 @@ This ensures that shop owners can **monitor and control** their security system 
 ## 🛠️ Components Used
 | Component | Description |
 |-----------|------------|
-| ![ESP32](assets/esp32.png) | ESP32 WiFi & BLE Module |
-| ![PIR Sensor](assets/pir_sensor.png) | Motion Sensor for Intrusion Detection |
-| ![Buzzer](assets/buzzer.png) | Alarm System for Security Alerts |
-| ![Relay Module](assets/relay_module.png) | Controls Electrical Appliances |
-| ![Power Supply](assets/power_supply.png) | Powering the ESP32 & Components |
+| ![ESP32](https://github.com/salman1397/images/blob/main/images/esp32.png) | ESP32 WiFi & BLE Module |
+| ![PIR Sensor](https://github.com/salman1397/images/blob/main/images/pir.jpg) | PIR Motion Sensor |
+| ![Motion Sensor](https://github.com/salman1397/images/blob/main/images/microwavemotionsensor.png) | Microwave Motion Sensor |
+| ![Buzzer](https://raw.githubusercontent.com/salman1397/images/refs/heads/main/images/siren.webp) | Alarm System for Security Alerts |
+| ![3s Battery(12V)](https://github.com/salman1397/images/blob/main/images/battery3s.jpg) | 3S Battery (12.4 Volt) |
+| ![3s BMS)](https://github.com/salman1397/images/blob/main/images/bms3s.png) | 3S BMS |
+| ![12V adapter)](https://github.com/salman1397/images/blob/main/images/12Vadapter.jpg) | 12V Adapter |
 
 ---
 
@@ -48,9 +50,8 @@ This ensures that shop owners can **monitor and control** their security system 
   |-------------|-------------------|---------------|
   | Dashboard | ![Mobile Dash](https://github.com/salman1397/images/blob/main/images/mobiledashboard.png) | ![web das](https://github.com/salman1397/images/blob/main/images/webdashboard1.png) ![web das](https://github.com/salman1397/images/blob/main/images/webdashboard2.png) |
   | Notification Dashboard | ![Mobile Notification](https://github.com/salman1397/images/blob/main/images/mobilenotification.png) | ![Web Notification](https://github.com/salman1397/images/blob/main/images/webnotification.png) |
-- **Custom Bluetooth App**: Enables security control even when the internet is unavailable.
+  | Bluetooth App | ![Mobole Bluetooth](https://github.com/salman1397/images/blob/main/images/bluetoothmobile.png) | ![Bluetooth Web](https://github.com/salman1397/images/blob/main/images/bluetoothweb.png) |
 
-![Blynk App Interface](assets/blynk_app.png)
 
 ---
 
