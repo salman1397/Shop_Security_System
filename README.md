@@ -68,11 +68,6 @@ This ensures that shop owners can **monitor and control** their security system 
 
 ---
 
-## 📸 System Demonstration
-![Shop Security Demo](assets/shop_security_demo.gif)
-
----
-
 ## ⚙️ Future Enhancements
 - 📷 **ESP32-CAM integration for live streaming**
 - 🎤 **Voice alerts for intrusions**
