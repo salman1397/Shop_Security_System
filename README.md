@@ -54,14 +54,17 @@ This ensures that shop owners can **monitor and control** their security system 
 
 
 ---
+### 1️⃣ Circuit Diagram
+ ![ESP32](https://github.com/salman1397/images/blob/main/ShopSecurity/ShopSecurityCkt.png)
 
+ ---
 
-### 1️⃣ Firmware & Code Upload
+### 2️⃣ Firmware & Code Upload
 - Install **Arduino IDE** and **ESP32 Board Manager**.
 - Install required libraries: `WiFi`, `Blynk`, `BluetoothSerial`, etc.
 - Upload the firmware and configure **Blynk authentication tokens**.
 
-### 2️⃣ Mobile App Setup
+### 3️⃣ Mobile App Setup
 - Download and install the **Blynk app**.
 - Connect the ESP32 device and configure it for remote access.
 - Set up automation triggers and notifications.
